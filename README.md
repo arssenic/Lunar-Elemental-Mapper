@@ -3,8 +3,8 @@
 This repository contains a collection of Python scripts and Jupyter notebooks developed as part of the **Inter-IIT Tech Meet** project.  
 It focuses on **astronomical data analysis**, including:
 
-- Peak detection  
-- Elemental identification  
+- Peak detection(Finding_Peaks.ipynb)  
+- Elemental identification(Identifying Elems.ipynb)
 - Satellite observation parameters  
 - Curve fitting  
 - XML data processing  
@@ -22,3 +22,4 @@ Install the required Python packages using:
 
 ```bash
 pip install numpy pandas matplotlib scipy astropy
+
